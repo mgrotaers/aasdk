@@ -43,4 +43,5 @@ Copyrights (c) 2018 f1x.studio (Michal Szwaj)
  - [OpenSSL](https://www.openssl.org/)
  - [Google test framework](https://github.com/google/googletest)
 
-### Updates made for Raspberry Pi OS bullseye on 6 Jan 2022.
+### Updates made for Raspberry Pi OS bullseye on 6 Jan 2022
+ - Currently builds without errors but has warnings, specifically with libusb.
